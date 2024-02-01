@@ -37,6 +37,10 @@ body {
   padding: 14px 98px 12px;
 }
 
+main p {
+  padding: 0 37px;
+}
+
 h2 {
   font-size: 36px;
   font-weight: 700;
@@ -54,10 +58,13 @@ hr {
 
 .introduction {
   font-size: 21px;
+  padding-top: 22px;
 }
 
 h3 {
   font-size: 21px;
+  padding-top: 38px;
+  padding-bottom: 12px;
 }
 
 h4 {
